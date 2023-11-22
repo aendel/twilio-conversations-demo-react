@@ -33,3 +33,6 @@ yarn-error.log*
 AutomationTests/environments/env_data
 
 dynamicConfig.yml
+
+# Visual Studio Code files
+.vscode/*
